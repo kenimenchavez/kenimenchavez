@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/PP4eP1D-9vUAAAAC/anya-forger-study.gif](https://media1.tenor.com/m/jFKQs0KcJyMAAAAd/anya-forger-anya-spy-x-family.gif" width="300"/>
+  <img src="https://media1.tenor.com/m/jFKQs0KcJyMAAAAd/anya-forger-anya-spy-x-family.gif" width="300"/>
 </p>
 
 ## こんにちは, I’m Keni 👋  
