@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/736x/d4/ae/92/d4ae92347ee5ec4bc0ecc3e900b70a88.jpg"/>
+  <img src="https://i.pinimg.com/736x/d4/ae/92/d4ae92347ee5ec4bc0ecc3e900b70a88.jpg" height="300"/>
 </p>
 
 ## こんにちは, I’m Keni 👋  
